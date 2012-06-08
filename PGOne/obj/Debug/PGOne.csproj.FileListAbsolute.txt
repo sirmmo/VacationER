@@ -1,0 +1,15 @@
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\Bin\Debug\ApplicationIcon.png
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\Bin\Debug\Background.png
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\Bin\Debug\PGOne.dll
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\Bin\Debug\PGOne.pdb
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\Bin\Debug\AppManifest.xaml
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\Bin\Debug\PGOne.xap
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\obj\Debug\ResolveAssemblyReference.cache
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\obj\Debug\App.g.i.cs
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\obj\Debug\MainPage.g.i.cs
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\obj\Debug\PGOne.g.resources
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\obj\Debug\PGOne.dll
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\obj\Debug\PGOne.pdb
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PGOne\obj\Debug\XapCacheFile.xml

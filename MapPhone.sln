@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Phone", "Phone", "{665F742E-419D-4C7F-8271-A619899FE29A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBoundApp3", "DataBoundApp3\DataBoundApp3.csproj", "{AC3F23BB-6B85-463F-8819-E8251C7EB9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC3F23BB-6B85-463F-8819-E8251C7EB9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3F23BB-6B85-463F-8819-E8251C7EB9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3F23BB-6B85-463F-8819-E8251C7EB9ED}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AC3F23BB-6B85-463F-8819-E8251C7EB9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3F23BB-6B85-463F-8819-E8251C7EB9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3F23BB-6B85-463F-8819-E8251C7EB9ED}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AC3F23BB-6B85-463F-8819-E8251C7EB9ED} = {665F742E-419D-4C7F-8271-A619899FE29A}
+	EndGlobalSection
+EndGlobal

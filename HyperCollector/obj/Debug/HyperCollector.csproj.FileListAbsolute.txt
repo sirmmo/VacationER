@@ -1,0 +1,15 @@
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\Bin\Debug\ApplicationIcon.png
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\Bin\Debug\Background.png
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\Bin\Debug\HyperCollector.dll
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\Bin\Debug\HyperCollector.pdb
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\Bin\Debug\AppManifest.xaml
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\Bin\Debug\HyperCollector.xap
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\obj\Debug\ResolveAssemblyReference.cache
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\obj\Debug\App.g.i.cs
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\obj\Debug\MainPage.g.i.cs
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\obj\Debug\HyperCollector.g.resources
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\obj\Debug\HyperCollector.dll
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\obj\Debug\HyperCollector.pdb
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\HyperCollector\obj\Debug\XapCacheFile.xml

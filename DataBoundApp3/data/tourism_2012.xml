@@ -1,0 +1,1653 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-05-26T13:15:49">
+  <tour>
+    <anno>2012</anno>
+    <denominazione>ARGENTA</denominazione>
+    <indirizzo>Piazza Marconi, 1</indirizzo>
+    <comune>Argenta</comune>
+    <ISTATcomune>38001</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>0532-330276</telefono>
+    <fax>0532-330291</fax>
+    <email>iatargenta@comune.argenta.fe.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>UNIONE DEI COMUNI DELLA BASSA ROMAGNA</denominazione>
+    <indirizzo>Piazza della Liberta&apos;, 4</indirizzo>
+    <comune>Bagnacavallo</comune>
+    <ISTATcomune>39002</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0545-280898</telefono>
+    <fax>0545-280859</fax>
+    <email>turismo@unione.labassaromagna.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BAGNO DI ROMAGNA</denominazione>
+    <indirizzo>Via Fiorentina, 38</indirizzo>
+    <comune>Bagno di Romagna</comune>
+    <ISTATcomune>40001</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>054-3911046</telefono>
+    <fax>054-3911026</fax>
+    <email>info@bagnodiromagnaturismo.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BARDI</denominazione>
+    <indirizzo>Via Pietro Cella, 5</indirizzo>
+    <comune>Bardi</comune>
+    <ISTATcomune>34002</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>052-5733075</telefono>
+    <fax>052-5733075</fax>
+    <email>ufficioturismo@bardiservizi.com</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BEDONIA</denominazione>
+    <indirizzo>Via Garibaldi, 13</indirizzo>
+    <comune>Bedonia</comune>
+    <ISTATcomune>34003</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>052-5824765</telefono>
+    <fax>052-5824765</fax>
+    <email>ufficioturistico@comune.bedonia.pr.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BELLARIA</denominazione>
+    <indirizzo>Via Leonardo Da Vinci, 2</indirizzo>
+    <comune>Bellaria-Igea Marina</comune>
+    <ISTATcomune>99001</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>054-1343808</telefono>
+    <fax>054-1345491</fax>
+    <email>iat@comune.bellaria-igea-marina.rn.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>IGEA MARINA</denominazione>
+    <indirizzo>Viale Pinzon, 196</indirizzo>
+    <comune>Bellaria-Igea Marina</comune>
+    <ISTATcomune>99001</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>054-1333119</telefono>
+    <fax>054-1333119</fax>
+    <email>iatim@comune.bellaria-igea-marina.rn.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BERCETO</denominazione>
+    <indirizzo>Strada Romea, 5</indirizzo>
+    <comune>Berceto</comune>
+    <ISTATcomune>34004</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0525-629027</telefono>
+    <fax>0525-629456</fax>
+    <email>info@puntotappa.com</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BERTINORO</denominazione>
+    <indirizzo>Piazza della Liberta&apos;, 9/C</indirizzo>
+    <comune>Bertinoro</comune>
+    <ISTATcomune>40003</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0543-469213</telefono>
+    <fax>0543-444588</fax>
+    <email>turismo@comune.bertinoro.fc.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BOBBIO</denominazione>
+    <indirizzo>Piazza San Francesco, 1</indirizzo>
+    <comune>Bobbio</comune>
+    <ISTATcomune>33005</ISTATcomune>
+    <provincia>PC</provincia>
+    <telefono>0523-962815</telefono>
+    <fax>0523-936666</fax>
+    <email>iat.bobbio@sintranet.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BOLOGNA AEROPORTO</denominazione>
+    <indirizzo>Via Triumvirato, 84</indirizzo>
+    <comune>Bologna</comune>
+    <ISTATcomune>37006</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>051-6472113</telefono>
+    <fax>051-6472253</fax>
+    <email>touristoffice@comune.bologna.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BOLOGNA PIAZZA MAGGIORE</denominazione>
+    <indirizzo>Piazza Maggiore, 1/E</indirizzo>
+    <comune>Bologna</comune>
+    <ISTATcomune>37006</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>051-239660</telefono>
+    <fax>051-6472253</fax>
+    <email>touristoffice@comune.bologna.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BORE</denominazione>
+    <indirizzo>Via Roma, 83</indirizzo>
+    <comune>Bore</comune>
+    <ISTATcomune>34005</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0525-79137</telefono>
+    <fax>0525-79207</fax>
+    <email>bore@comune.bore.pr.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BORGO TOSSIGNANO</denominazione>
+    <indirizzo>Via Rineggio, 22</indirizzo>
+    <comune>Borgo Tossignano</comune>
+    <ISTATcomune>37007</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>334-7041312</telefono>
+    <fax>0542-628143</fax>
+    <email>info.gessi.fiume@ecosistema.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BORGO VAL DI TARO</denominazione>
+    <indirizzo>Piazza Manara, 7</indirizzo>
+    <comune>Borgo Val di Taro</comune>
+    <ISTATcomune>34006</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0525-96796</telefono>
+    <fax>0525-96796</fax>
+    <email>uit@comune.borgo-val-di-taro.pr.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BORGONOVO</denominazione>
+    <indirizzo>Piazza Garibaldi, 18</indirizzo>
+    <comune>Borgonovo Val Tidone</comune>
+    <ISTATcomune>33006</ISTATcomune>
+    <provincia>PC</provincia>
+    <telefono>0523-861210</telefono>
+    <fax>0523-861210</fax>
+    <email>turismo@valtidoneluretta.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BRISIGHELLA</denominazione>
+    <indirizzo>Piazzetta Porto Gabolo, 5</indirizzo>
+    <comune>Brisighella</comune>
+    <ISTATcomune>39004</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0546-81166</telefono>
+    <fax>0546-81166</fax>
+    <email>iat.brisighella@racine.ra.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MUSEO DEL SUGHERO CERVAREZZA</denominazione>
+    <indirizzo>Piazza 1° Maggio</indirizzo>
+    <comune>Busana</comune>
+    <ISTATcomune>35007</ISTATcomune>
+    <provincia>RE</provincia>
+    <telefono>0522-890655</telefono>
+    <fax>0522-890749</fax>
+    <email>museodelsughero@unionecomuni.re.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>BUSSETO</denominazione>
+    <indirizzo>Piazza Giuseppe Verdi, 10</indirizzo>
+    <comune>Busseto</comune>
+    <ISTATcomune>34007</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0524-92487</telefono>
+    <fax>0524-931740</fax>
+    <email>info@bussetolive.com</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>TERRE MATILDICHE</denominazione>
+    <indirizzo>Località Rossena, 83</indirizzo>
+    <comune>Canossa</comune>
+    <ISTATcomune>35018</ISTATcomune>
+    <provincia>RE</provincia>
+    <telefono>0522-872225</telefono>
+    <fax>0522-872225</fax>
+    <email>iat.terrematildiche@libero.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>TERRE D&apos;ARGINE</denominazione>
+    <indirizzo>Via Berengario, 2</indirizzo>
+    <comune>Carpi</comune>
+    <ISTATcomune>36005</ISTATcomune>
+    <provincia>MO</provincia>
+    <telefono>059-649255</telefono>
+    <fax>059-649240</fax>
+    <email>iat@carpidiem.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CASOLA VALSENIO</denominazione>
+    <indirizzo>Via Roma, 50</indirizzo>
+    <comune>Casola Valsenio</comune>
+    <ISTATcomune>39005</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0546-73033</telefono>
+    <fax>0546-76033</fax>
+    <email>iat.casolavalsenio@racine.ra.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CASTEL GUELFO OUTLETS</denominazione>
+    <indirizzo>Via del Commercio, 4/Z</indirizzo>
+    <comune>Castel Guelfo di Bologna</comune>
+    <ISTATcomune>37016</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>0542-670765</telefono>
+    <fax>0542-671714</fax>
+    <email>uit.castelguelfo@stai.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CASTEL S. PIETRO</denominazione>
+    <indirizzo>Piazza XX Settembre, 3</indirizzo>
+    <comune>Castel San Pietro Terme</comune>
+    <ISTATcomune>37020</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>051-6954137</telefono>
+    <fax>051-6954141</fax>
+    <email>uit@cspietro.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CASTELDELCI</denominazione>
+    <indirizzo>Via Roma, 26</indirizzo>
+    <comune>Casteldelci</comune>
+    <ISTATcomune>99021</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-915423</telefono>
+    <fax>0541-925300</fax>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CASTELL&apos;ARQUATO</denominazione>
+    <indirizzo>Piazza del Municipio - Loggetta dei Notari</indirizzo>
+    <comune>Castell&apos;Arquato</comune>
+    <ISTATcomune>33012</ISTATcomune>
+    <provincia>PC</provincia>
+    <telefono>0523-803215</telefono>
+    <fax>0523-803215</fax>
+    <email>iatcastellarquato@gmail.com</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>APPENNINO REGGIANO</denominazione>
+    <indirizzo>Via Roma, 79/E</indirizzo>
+    <comune>Castelnovo ne&apos;Monti</comune>
+    <ISTATcomune>35016</ISTATcomune>
+    <provincia>RE</provincia>
+    <telefono>0522-810430</telefono>
+    <fax>0522-812313</fax>
+    <email>iat@appenninoreggiano.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CASTROCARO GALLERIA TERME</denominazione>
+    <indirizzo>Viale Marconi, 20/28</indirizzo>
+    <comune>Castrocaro Terme e Terra del Sole</comune>
+    <ISTATcomune>40005</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0543-769631</telefono>
+    <fax>0543-769631</fax>
+    <email>iatcastrocaro@visitcastrocaro.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>TERRA DEL SOLE</denominazione>
+    <indirizzo>Piazza d&apos;Armi, 2</indirizzo>
+    <comune>Castrocaro Terme e Terra del Sole</comune>
+    <ISTATcomune>40005</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0543-766766</telefono>
+    <fax>0543-766766</fax>
+    <email>proloco@terradelsole.org</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CATTOLICA PIAZZA I° MAGGIO</denominazione>
+    <indirizzo>Piazzale 1° Maggio</indirizzo>
+    <comune>Cattolica</comune>
+    <ISTATcomune>99002</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-966687</telefono>
+    <fax>0541-966687</fax>
+    <email>iat2@cattolica.net</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CATTOLICA VIA MANCINI</denominazione>
+    <indirizzo>Via Mancini, 24</indirizzo>
+    <comune>Cattolica</comune>
+    <ISTATcomune>99002</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-966697</telefono>
+    <fax>0541-966695</fax>
+    <email>iat@cattolica.net</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CENTO</denominazione>
+    <indirizzo>Piazzale della Rocca, 9</indirizzo>
+    <comune>Cento</comune>
+    <ISTATcomune>38004</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>051-6843398</telefono>
+    <fax>051-6843120</fax>
+    <email>informaturismo@comune.cento.fe.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CERVIA</denominazione>
+    <indirizzo>Via Evangelisti, 4</indirizzo>
+    <comune>Cervia</comune>
+    <ISTATcomune>39007</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-974400</telefono>
+    <fax>0544-977194</fax>
+    <email>iatcervia@cerviaturismo.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MILANO MARITTIMA</denominazione>
+    <indirizzo>Piazzale Napoli, 30</indirizzo>
+    <comune>Cervia</comune>
+    <ISTATcomune>39007</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-993435</telefono>
+    <fax>0544-993226</fax>
+    <email>iatmilanomarittima@cerviaturismo.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>PINARELLA</denominazione>
+    <indirizzo>Via Tritone, 15/B</indirizzo>
+    <comune>Cervia</comune>
+    <ISTATcomune>39007</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-72424</telefono>
+    <fax>0544-980728</fax>
+    <email>pinarella@cerviaturismo.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>TAGLIATA</denominazione>
+    <indirizzo>Viale Italia, 374</indirizzo>
+    <comune>Cervia</comune>
+    <ISTATcomune>39007</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-72424</telefono>
+    <fax>0544-982315</fax>
+    <email>tagliata@cerviaturismo.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CESENA</denominazione>
+    <indirizzo>Piazza del Popolo, 15</indirizzo>
+    <comune>Cesena</comune>
+    <ISTATcomune>40007</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0547-356327</telefono>
+    <fax>0547-356393</fax>
+    <email>iat@comune.cesena.fc.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CESENATICO</denominazione>
+    <indirizzo>Viale Roma, 112</indirizzo>
+    <comune>Cesenatico</comune>
+    <ISTATcomune>40008</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0547-673287</telefono>
+    <fax>0547-79404</fax>
+    <email>iat@cesenatico.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CESENATICO PONENTE</denominazione>
+    <indirizzo>Viale Mazzini, 179</indirizzo>
+    <comune>Cesenatico</comune>
+    <ISTATcomune>40008</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0547-675684</telefono>
+    <fax>0547-679962</fax>
+    <email>info@cesenaticoturismo.com</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CESENATICO VALVERDE</denominazione>
+    <indirizzo>Viale Carducci, 292/B</indirizzo>
+    <comune>Cesenatico</comune>
+    <ISTATcomune>40008</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0547-85183</telefono>
+    <fax>0547-85183</fax>
+    <email>iatvalverde@cesenatico.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>ABBAZIA POMPOSA</denominazione>
+    <indirizzo>Via Pomposa Centro, 1</indirizzo>
+    <comune>Codigoro</comune>
+    <ISTATcomune>38005</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>0533-719110</telefono>
+    <fax>0533-719110</fax>
+    <email>iatpomposa@libero.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>COLORNO</denominazione>
+    <indirizzo>Piazza Garibaldi, 23</indirizzo>
+    <comune>Colorno</comune>
+    <ISTATcomune>34010</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0521-313336</telefono>
+    <fax>0521-521370</fax>
+    <email>ufficio.turistico@comune.colorno.pr.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>COMACCHIO</denominazione>
+    <indirizzo>Via Giuseppe Mazzini, 4</indirizzo>
+    <comune>Comacchio</comune>
+    <ISTATcomune>38006</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>0533-314154</telefono>
+    <fax>0533-319278</fax>
+    <email>comacchio.iat@comune.comacchio.fe.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>LIDO DEGLI ESTENSI</denominazione>
+    <indirizzo>Via Ariosto, 10</indirizzo>
+    <comune>Comacchio</comune>
+    <ISTATcomune>38006</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>0533-327464</telefono>
+    <fax>0533-327464</fax>
+    <email>iatlidoestensi@comune.comacchio.fe.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>LIDO DELLE NAZIONI</denominazione>
+    <indirizzo>Via Germania, 24</indirizzo>
+    <comune>Comacchio</comune>
+    <ISTATcomune>38006</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>0533-379068</telefono>
+    <fax>0533-379068</fax>
+    <email>iatlidonazioni@comune.comacchio.fe.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>LIDO DI POMPOSA</denominazione>
+    <indirizzo>Via Monte Grappa, 5</indirizzo>
+    <comune>Comacchio</comune>
+    <ISTATcomune>38006</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>0533-380342</telefono>
+    <fax>0533-380342</fax>
+    <email>iatlidopomposa@comune.comacchio.fe.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>LIDO DI SPINA</denominazione>
+    <indirizzo>Viale Leonardo Da Vinci, 112</indirizzo>
+    <comune>Comacchio</comune>
+    <ISTATcomune>38006</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>0533-333656</telefono>
+    <fax>0533-333656</fax>
+    <email>iatlidospina@comune.comacchio.fe.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>LIDO DI VOLANO</denominazione>
+    <indirizzo>Piazza Volano Centro</indirizzo>
+    <comune>Comacchio</comune>
+    <ISTATcomune>38006</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>0533-355208</telefono>
+    <fax>0533-355208</fax>
+    <email>iatlidovolano@comune.comacchio.fe.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>PORTO GARIBALDI</denominazione>
+    <indirizzo>Via Ugo Bassi, 36/38</indirizzo>
+    <comune>Comacchio</comune>
+    <ISTATcomune>38006</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>0533-329076</telefono>
+    <fax>0533-328336</fax>
+    <email>iatportogaribaldi@comune.comacchio.fe.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CORIANO</denominazione>
+    <indirizzo>Piazza Mazzini, 10/11</indirizzo>
+    <comune>Coriano</comune>
+    <ISTATcomune>99003</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-656255</telefono>
+    <fax>0541-656255</fax>
+    <email>info@prolococoriano.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CORNIGLIO</denominazione>
+    <indirizzo>Largo al Castello, 1</indirizzo>
+    <comune>Corniglio</comune>
+    <ISTATcomune>34012</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0521-881012</telefono>
+    <fax>0521-881012</fax>
+    <email>info@ostellocorniglio.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CORREGGIO</denominazione>
+    <indirizzo>Corso Cavour, 7</indirizzo>
+    <comune>Correggio</comune>
+    <ISTATcomune>35020</ISTATcomune>
+    <provincia>RE</provincia>
+    <telefono>0522-631770</telefono>
+    <fax>0522-641105</fax>
+    <email>turismo@comune.correggio.re.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>FAENZA</denominazione>
+    <indirizzo>Voltone della Molinella, 2</indirizzo>
+    <comune>Faenza</comune>
+    <ISTATcomune>39010</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0546-25231</telefono>
+    <fax>0546-25231</fax>
+    <email>info@prolocofaenza.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>FERRARA LARGO CASTELLO</denominazione>
+    <indirizzo>Largo Castello</indirizzo>
+    <comune>Ferrara</comune>
+    <ISTATcomune>38008</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>0532-209370</telefono>
+    <fax>0532-212266</fax>
+    <email>infotur@provincia.fe.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>FIDENZA VILLAGE</denominazione>
+    <indirizzo>Via San Michele Campagna</indirizzo>
+    <comune>Fidenza</comune>
+    <ISTATcomune>34014</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0524-335556</telefono>
+    <fax>0524-537135</fax>
+    <email>iat.fidenzavillage@terrediverdi.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>FONTANELLATO</denominazione>
+    <indirizzo>Piazza Matteotti, 1</indirizzo>
+    <comune>Fontanellato</comune>
+    <ISTATcomune>34015</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0521-829055</telefono>
+    <fax>0521-824042</fax>
+    <email>iat@fontanellato.org</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>FORLI&apos;</denominazione>
+    <indirizzo>Piazzetta della Misura, 5</indirizzo>
+    <comune>Forli&apos;</comune>
+    <ISTATcomune>40012</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0543-712435</telefono>
+    <fax>0543-712755</fax>
+    <email>iat@comune.forli.fc.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>FORLI&apos; AEROPORTO</denominazione>
+    <indirizzo>Via Seganti, 103</indirizzo>
+    <comune>Forli&apos;</comune>
+    <ISTATcomune>40012</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0543-783043</telefono>
+    <fax>0543-712755</fax>
+    <email>iat@comune.forli.fc.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>FORNOVO/VAL CENO/VAL TARO</denominazione>
+    <indirizzo>Via dei Collegati, 19</indirizzo>
+    <comune>Fornovo di Taro</comune>
+    <ISTATcomune>34017</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0525-2599</telefono>
+    <fax>0525-2599</fax>
+    <email>turist48@prolocofornovo.191.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>GALEATA-PIANETTO</denominazione>
+    <indirizzo>Via Borgo Pianetto, 18</indirizzo>
+    <comune>Galeata</comune>
+    <ISTATcomune>40014</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0543-981854</telefono>
+    <fax>0543-981021</fax>
+    <email>museomambrini@libero.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>GATTEO A MARE</denominazione>
+    <indirizzo>Piazza della Liberta&apos;, 10</indirizzo>
+    <comune>Gatteo</comune>
+    <ISTATcomune>40016</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0547-86083</telefono>
+    <fax>0547-85393</fax>
+    <email>iat@comune.gatteo.fo.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>GEMMANO</denominazione>
+    <indirizzo>Via Roma, 1</indirizzo>
+    <comune>Gemmano</comune>
+    <ISTATcomune>99004</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-854060</telefono>
+    <fax>0541-854012</fax>
+    <email>uit@comune.gemmano.rn.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>GORO</denominazione>
+    <indirizzo>Via Cavicchini, 13</indirizzo>
+    <comune>Goro</comune>
+    <ISTATcomune>38025</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>0533-995030</telefono>
+    <fax>0533-792343</fax>
+    <email>turismo@comune.goro.fe.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>GRANAGLIONE</denominazione>
+    <indirizzo>Via Roma, 56/1</indirizzo>
+    <comune>Granaglione</comune>
+    <ISTATcomune>37029</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>0534-62468</telefono>
+    <fax>0534-62468</fax>
+    <email>info@molinodelpallone.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>GUASTALLA</denominazione>
+    <indirizzo>Via Gonzaga, 16</indirizzo>
+    <comune>Guastalla</comune>
+    <ISTATcomune>35024</ISTATcomune>
+    <provincia>RE</provincia>
+    <telefono>0522-839763</telefono>
+    <fax>0522-839763</fax>
+    <email>uit@comune.guastalla.re.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>IMOLA</denominazione>
+    <indirizzo>Via Emilia, 135</indirizzo>
+    <comune>Imola</comune>
+    <ISTATcomune>37032</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>0542-602207</telefono>
+    <fax>0542-602141</fax>
+    <email>iat@comune.imola.bo.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>TORRECHIARA</denominazione>
+    <indirizzo>Strada al Castello, 10</indirizzo>
+    <comune>Langhirano</comune>
+    <ISTATcomune>34018</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0521-355009</telefono>
+    <fax>0521-355821</fax>
+    <email>iat@comune.langhirano.pr.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>LIZZANO IN BELVEDERE</denominazione>
+    <indirizzo>Piazza Marconi, 6</indirizzo>
+    <comune>Lizzano in Belvedere</comune>
+    <ISTATcomune>37033</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>0534-51052</telefono>
+    <fax>0534-51052</fax>
+    <email>iat.lizzano@comune.lizzano.bo.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>VIDICIATICO</denominazione>
+    <indirizzo>Via Marconi, 31</indirizzo>
+    <comune>Lizzano in Belvedere</comune>
+    <ISTATcomune>37033</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>0534-53159</telefono>
+    <fax>0534-53159</fax>
+    <email>iat.vidiciatico@comune.lizzano.bo.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>LONGIANO</denominazione>
+    <indirizzo>Via Porta del Girone, 2</indirizzo>
+    <comune>Longiano</comune>
+    <ISTATcomune>40018</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0547-665484</telefono>
+    <fax>0547-665484</fax>
+    <email>iat@comune.longiano.fc.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>TERRA DI MOTORI</denominazione>
+    <indirizzo>Via Dino Ferrari, 43</indirizzo>
+    <comune>Maranello</comune>
+    <ISTATcomune>36019</ISTATcomune>
+    <provincia>MO</provincia>
+    <telefono>0536-073036</telefono>
+    <fax>0536-073036</fax>
+    <email>iat@maranello.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MESOLA</denominazione>
+    <indirizzo>Piazza S. Spirito, 3</indirizzo>
+    <comune>Mesola</comune>
+    <ISTATcomune>38014</ISTATcomune>
+    <provincia>FE</provincia>
+    <telefono>0533-993358</telefono>
+    <fax>0533-993358</fax>
+    <email>iat@comune.mesola.fe.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MIRANDOLA</denominazione>
+    <indirizzo>Piazza Guglielmo Marconi, 28</indirizzo>
+    <comune>Mirandola</comune>
+    <ISTATcomune>36022</ISTATcomune>
+    <provincia>MO</provincia>
+    <telefono>0535-610944</telefono>
+    <fax>0535-24043</fax>
+    <email>uit@comune.mirandola.mo.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MISANO ADRIATICO</denominazione>
+    <indirizzo>Via Platani, 22</indirizzo>
+    <comune>Misano Adriatico</comune>
+    <ISTATcomune>99005</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-615520</telefono>
+    <fax>0541-613295</fax>
+    <email>iat@comune.misano-adriatico.rn.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MODENA</denominazione>
+    <indirizzo>Via Scudari, 8/10</indirizzo>
+    <comune>Modena</comune>
+    <ISTATcomune>36023</ISTATcomune>
+    <provincia>MO</provincia>
+    <telefono>059-2032660</telefono>
+    <fax>059-2032659</fax>
+    <email>iatmo@comune.modena.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MONCHIO DELLE CORTI</denominazione>
+    <indirizzo>Via Parco dei 100 laghi, 4</indirizzo>
+    <comune>Monchio delle Corti</comune>
+    <ISTATcomune>34022</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0521-896618</telefono>
+    <fax>0521-896742</fax>
+    <email>info.monchio@cmparmaest.pr.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MONGHIDORO</denominazione>
+    <indirizzo>Via Matteotti, 1</indirizzo>
+    <comune>Monghidoro</comune>
+    <ISTATcomune>37040</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>051-6555132</telefono>
+    <fax>051-6552268</fax>
+    <email>iat@monghidoro.eu</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MONTICELLI TERME</denominazione>
+    <indirizzo>Via Marconi, 13/BIS</indirizzo>
+    <comune>Montechiarugolo</comune>
+    <ISTATcomune>34023</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0521-657519</telefono>
+    <fax>0521-686633</fax>
+    <email>turismo@comune.montechiarugolo.pr.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MONTEFIORE</denominazione>
+    <indirizzo>Via Roma, 3</indirizzo>
+    <comune>Montefiore Conca</comune>
+    <ISTATcomune>99008</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-980035</telefono>
+    <fax>0541-980206</fax>
+    <email>utribmontefiore@email.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>UNIONE COMUNI VALLI DOLO, DRAGONE E SECCHIA</denominazione>
+    <indirizzo>Via Alighieri</indirizzo>
+    <comune>Montefiorino</comune>
+    <ISTATcomune>36025</ISTATcomune>
+    <provincia>MO</provincia>
+    <telefono>0536-962727</telefono>
+    <fax>0536-965312</fax>
+    <email>infoturismo@unionecomuniovest.mo.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MONTEGRIDOLFO</denominazione>
+    <indirizzo>Via Borgo, 1</indirizzo>
+    <comune>Montegridolfo</comune>
+    <ISTATcomune>99009</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-855067</telefono>
+    <fax>0541-855067</fax>
+    <email>uit_montegridolfo@libero.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MONTEFUSO</denominazione>
+    <indirizzo>Via Capetta, 1</indirizzo>
+    <comune>Neviano degli Arduini</comune>
+    <ISTATcomune>34024</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0521-840151</telefono>
+    <fax>0521-840148</fax>
+    <email>parcofuso@provincia.parma.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>NOCETO</denominazione>
+    <indirizzo>Piazzale Adami, 1</indirizzo>
+    <comune>Noceto</comune>
+    <ISTATcomune>34025</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0521-622227</telefono>
+    <fax>0521-622227</fax>
+    <email>turismo@comune.noceto.pr.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>NOVAFELTRIA</denominazione>
+    <indirizzo>Piazza V. Emanuele, 2</indirizzo>
+    <comune>Novafeltria</comune>
+    <ISTATcomune>99023</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-845619</telefono>
+    <email>urp@comune.novafeltria.rn.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>PARMA</denominazione>
+    <indirizzo>Via Melloni, 1/A</indirizzo>
+    <comune>Parma</comune>
+    <ISTATcomune>34027</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0521-218889</telefono>
+    <fax>0521-234735</fax>
+    <email>turismo@comune.parma.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>FRIGNANO</denominazione>
+    <indirizzo>Piazza Montecuccoli, 1</indirizzo>
+    <comune>Pavullo nel Frignano</comune>
+    <ISTATcomune>36030</ISTATcomune>
+    <provincia>MO</provincia>
+    <telefono>0536-29964</telefono>
+    <fax>0536-29961</fax>
+    <email>uit@comune.pavullo-nel-frignano.mo.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>PENNABILLI</denominazione>
+    <indirizzo>Piazza Garibaldi, 1</indirizzo>
+    <comune>Pennabilli</comune>
+    <ISTATcomune>99024</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-928659</telefono>
+    <email>prolocopennabilli@gmail.com</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>PIACENZA</denominazione>
+    <indirizzo>Piazza Cavalli, 7</indirizzo>
+    <comune>Piacenza</comune>
+    <ISTATcomune>33032</ISTATcomune>
+    <provincia>PC</provincia>
+    <telefono>0523-329324</telefono>
+    <fax>0523-306727</fax>
+    <email>iat@comune.piacenza.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>PORRETTA TERME</denominazione>
+    <indirizzo>Piazza Liberta&apos;, 11</indirizzo>
+    <comune>Porretta Terme</comune>
+    <ISTATcomune>37049</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>0534-22021</telefono>
+    <fax>0534-24440</fax>
+    <email>iat@comune.porrettaterme.bo.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>PREMILCUORE</denominazione>
+    <indirizzo>Via Roma, 34</indirizzo>
+    <comune>Premilcuore</comune>
+    <ISTATcomune>40033</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0543-956540</telefono>
+    <fax>0543-956557</fax>
+    <email>cv.premilcuore@parcoforestecasentinesi.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CASALBORSETTI</denominazione>
+    <indirizzo>Viale delle Viole, 1</indirizzo>
+    <comune>Ravenna</comune>
+    <ISTATcomune>39014</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-444912</telefono>
+    <fax>0544-444912</fax>
+    <email>proloco@casalborsetti.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CLASSE</denominazione>
+    <indirizzo>Via Romea Sud, 226</indirizzo>
+    <comune>Ravenna</comune>
+    <ISTATcomune>39014</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-473661</telefono>
+    <fax>0544-473661</fax>
+    <email>iatclasse@ravennareservation.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>LIDO ADRIANO</denominazione>
+    <indirizzo>Viale Petrarca, 434</indirizzo>
+    <comune>Ravenna</comune>
+    <ISTATcomune>39014</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-495353</telefono>
+    <fax>0544-495353</fax>
+    <email>info@prolocolidoadriano.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>LIDO DI CLASSE</denominazione>
+    <indirizzo>Viale Vivaldi, 51</indirizzo>
+    <comune>Ravenna</comune>
+    <ISTATcomune>39014</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-939278</telefono>
+    <fax>0544-939278</fax>
+    <email>iatlidodiclasse@ravennareservation.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>LIDO DI DANTE</denominazione>
+    <indirizzo>Via Catone, 10</indirizzo>
+    <comune>Ravenna</comune>
+    <ISTATcomune>39014</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-492106</telefono>
+    <fax>0544-492106</fax>
+    <email>iatlidodidante@ravennareservation.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>LIDO DI SAVIO</denominazione>
+    <indirizzo>Viale Romagna, 244</indirizzo>
+    <comune>Ravenna</comune>
+    <ISTATcomune>39014</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-949063</telefono>
+    <fax>0544-949063</fax>
+    <email>iatlidodisavio@ravennareservation.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MARINA DI RAVENNA</denominazione>
+    <indirizzo>Piazzale Marinai d&apos;Italia, 17</indirizzo>
+    <comune>Ravenna</comune>
+    <ISTATcomune>39014</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-531108</telefono>
+    <fax>0544-531108</fax>
+    <email>iatmarinadiravenna@ravennareservation.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MARINA ROMEA</denominazione>
+    <indirizzo>Viale Ferrara, 7</indirizzo>
+    <comune>Ravenna</comune>
+    <ISTATcomune>39014</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-446035</telefono>
+    <fax>0544-448323</fax>
+    <email>iatmarinaromea@ravennareservation.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>PORTO CORSINI</denominazione>
+    <indirizzo>Via Lamone, 18</indirizzo>
+    <comune>Ravenna</comune>
+    <ISTATcomune>39014</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-447688</telefono>
+    <fax>0544-447688</fax>
+    <email>iatportocorsini@ravennareservation.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>PUNTA MARINA TERME</denominazione>
+    <indirizzo>Via della Fontana, 2</indirizzo>
+    <comune>Ravenna</comune>
+    <ISTATcomune>39014</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-437312</telefono>
+    <fax>0544-437312</fax>
+    <email>iatpuntamarina@ravennareservation.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>RAVENNA CENTRO STORICO</denominazione>
+    <indirizzo>Via Salara, 8/12</indirizzo>
+    <comune>Ravenna</comune>
+    <ISTATcomune>39014</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-35404</telefono>
+    <fax>0544-546097</fax>
+    <email>iatravenna@comune.ra.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>RAVENNA MAUSOLEO TEODORICO</denominazione>
+    <indirizzo>Via delle Industrie, 14</indirizzo>
+    <comune>Ravenna</comune>
+    <ISTATcomune>39014</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0544-451539</telefono>
+    <fax>0544-451539</fax>
+    <email>iatteodorico@ravennareservation.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>REGGIO EMILIA</denominazione>
+    <indirizzo>Via Farini, 1/A</indirizzo>
+    <comune>Reggio nell&apos;Emilia</comune>
+    <ISTATcomune>35033</ISTATcomune>
+    <provincia>RE</provincia>
+    <telefono>0522-451152</telefono>
+    <fax>0522-436739</fax>
+    <email>iat@municipio.re.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>RICCIONE GIARDINI ALBA</denominazione>
+    <indirizzo>Via Cilea, 10</indirizzo>
+    <comune>Riccione</comune>
+    <ISTATcomune>99013</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-426050</telefono>
+    <fax>0541-426080</fax>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>RICCIONE PIAZZALE CECCARINI</denominazione>
+    <indirizzo>Piazzale Ceccarini, 11</indirizzo>
+    <comune>Riccione</comune>
+    <ISTATcomune>99013</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-426050</telefono>
+    <fax>0541-426080</fax>
+    <email>iat@comune.riccione.rn.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>RICCIONE STAZIONE F.S.</denominazione>
+    <indirizzo>Piazzale Cadorna</indirizzo>
+    <comune>Riccione</comune>
+    <ISTATcomune>99013</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-426050</telefono>
+    <fax>0541-426080</fax>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>MIRAMARE</denominazione>
+    <indirizzo>Via Martinelli, 11/A</indirizzo>
+    <comune>Rimini</comune>
+    <ISTATcomune>99014</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-372112</telefono>
+    <fax>0541-372112</fax>
+    <email>miramare@riminireservation.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>RIMINI AEROPORTO</denominazione>
+    <indirizzo>Via Flaminia, 409</indirizzo>
+    <comune>Rimini</comune>
+    <ISTATcomune>99014</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-378731</telefono>
+    <fax>0541-378731</fax>
+    <email>airport@riminireservation.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>RIMINI MARE</denominazione>
+    <indirizzo>Piazzale Fellini, 3</indirizzo>
+    <comune>Rimini</comune>
+    <ISTATcomune>99014</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-56902</telefono>
+    <fax>0541-56598</fax>
+    <email>marinacentro@riminireservation.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>RIMINI STAZIONE F.S.</denominazione>
+    <indirizzo>Piazzale Cesare Battisti, 1</indirizzo>
+    <comune>Rimini</comune>
+    <ISTATcomune>99014</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-51331</telefono>
+    <fax>0541-27927</fax>
+    <email>stazione@riminireservation.it</email>
+    <tipologia>IAT-R</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>TORRE PEDRERA</denominazione>
+    <indirizzo>Via San Salvador, 65/D</indirizzo>
+    <comune>Rimini</comune>
+    <ISTATcomune>99014</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-720182</telefono>
+    <fax>0541-720182</fax>
+    <email>torrepedrera@riminireservation.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>TRIPOLI</denominazione>
+    <indirizzo>Piazza Marvelli, 8/B</indirizzo>
+    <comune>Rimini</comune>
+    <ISTATcomune>99014</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-390530</telefono>
+    <fax>0541-388856</fax>
+    <email>tripoli@riminireservation.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>VISERBA</denominazione>
+    <indirizzo>Via G. Dati, 180/A</indirizzo>
+    <comune>Rimini</comune>
+    <ISTATcomune>99014</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-738115</telefono>
+    <fax>0541-738115</fax>
+    <email>viserba@riminireservation.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>RIOLO TERME</denominazione>
+    <indirizzo>Corso Matteotti, 40</indirizzo>
+    <comune>Riolo Terme</comune>
+    <ISTATcomune>39015</ISTATcomune>
+    <provincia>RA</provincia>
+    <telefono>0546-71044</telefono>
+    <fax>0546-71932</fax>
+    <email>iat.rioloterme@racine.ra.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>RIVERGARO</denominazione>
+    <indirizzo>Via Trebbia, 25</indirizzo>
+    <comune>Rivergaro</comune>
+    <ISTATcomune>33038</ISTATcomune>
+    <provincia>PC</provincia>
+    <telefono>0523-956234</telefono>
+    <fax>0523-956234</fax>
+    <email>uit.rivergaro@tramballando.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SALA BAGANZA</denominazione>
+    <indirizzo>Piazza Gramsci, 1</indirizzo>
+    <comune>Sala Baganza</comune>
+    <ISTATcomune>34031</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0521-331342</telefono>
+    <fax>0521-336429</fax>
+    <email>iatsala@comune.sala-baganza.pr.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SALSOMAGGIORE</denominazione>
+    <indirizzo>Piazzale Berzieri</indirizzo>
+    <comune>Salsomaggiore Terme</comune>
+    <ISTATcomune>34032</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0524-580211</telefono>
+    <fax>0524-580219</fax>
+    <email>info@portalesalsomaggiore.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>TABIANO</denominazione>
+    <indirizzo>Via Fidenza, 20/A</indirizzo>
+    <comune>Salsomaggiore Terme</comune>
+    <ISTATcomune>34032</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0524-565482</telefono>
+    <fax>0524-567533</fax>
+    <email>infotabiano@portalesalsomaggiore.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SALUDECIO</denominazione>
+    <indirizzo>Piazza Beato Amato Ronconi, 8</indirizzo>
+    <comune>Saludecio</comune>
+    <ISTATcomune>99015</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-869731</telefono>
+    <fax>0541-869732</fax>
+    <email>uit.saludecio@comune.saludecio.rn.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SAN GIOVANNI IN MARIGNANO</denominazione>
+    <indirizzo>Piazza Silvagni, 26</indirizzo>
+    <comune>San Giovanni in Marignano</comune>
+    <ISTATcomune>99017</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-828124</telefono>
+    <fax>0541-957610</fax>
+    <email>turismo@marignano.net</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SAN LEO</denominazione>
+    <indirizzo>Piazza Dante Alighieri, 14</indirizzo>
+    <comune>San Leo</comune>
+    <ISTATcomune>99025</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-916306</telefono>
+    <fax>0541-926973</fax>
+    <email>info@sanleo2000.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SAN MAURO MARE</denominazione>
+    <indirizzo>Via della Repubblica, 8</indirizzo>
+    <comune>San Mauro Pascoli</comune>
+    <ISTATcomune>40041</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0541-346392</telefono>
+    <fax>0541-341378</fax>
+    <email>info@sanmauromare.net</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SAN SECONDO PARMENSE</denominazione>
+    <indirizzo>Piazza Mazzini, 12</indirizzo>
+    <comune>San Secondo Parmense</comune>
+    <ISTATcomune>34033</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0521-872147</telefono>
+    <fax>0521-872147</fax>
+    <email>turismo@comune.san-secondo-parmense.pr.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SANTA SOFIA</denominazione>
+    <indirizzo>Piazza G. Matteotti, 4</indirizzo>
+    <comune>Santa Sofia</comune>
+    <ISTATcomune>40043</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0543-970014</telefono>
+    <fax>0543-970014</fax>
+    <email>ostello.santasofia@libero.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SANT&apos;AGATA FELTRIA</denominazione>
+    <indirizzo>Piazza Garibaldi, 12</indirizzo>
+    <comune>Sant&apos;Agata Feltria</comune>
+    <ISTATcomune>99026</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-848022</telefono>
+    <email>info@prolocosantagatainfiera.com</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SANTARCANGELO</denominazione>
+    <indirizzo>Via Cesare Battisti, 5</indirizzo>
+    <comune>Santarcangelo di Romagna</comune>
+    <ISTATcomune>99018</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-624270</telefono>
+    <fax>0541-622570</fax>
+    <email>iat@comune.santarcangelo.rn.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SARSINA</denominazione>
+    <indirizzo>Via IV Novembre, 13</indirizzo>
+    <comune>Sarsina</comune>
+    <ISTATcomune>40044</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0547-698102</telefono>
+    <fax>0547-698102</fax>
+    <email>uit.sarsina@libero.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SASSO MARCONI</denominazione>
+    <indirizzo>Via Porrettana, 312</indirizzo>
+    <comune>Sasso Marconi</comune>
+    <ISTATcomune>37057</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>051-6758409</telefono>
+    <fax>051-6758408</fax>
+    <email>info@infosasso.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SASSUOLO</denominazione>
+    <indirizzo>Piazza Avanzini</indirizzo>
+    <comune>Sassuolo</comune>
+    <ISTATcomune>36040</ISTATcomune>
+    <provincia>MO</provincia>
+    <telefono>0536-1844853</telefono>
+    <fax>0536-1844964</fax>
+    <email>iat@comune.sassuolo.mo.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>SCANDIANO</denominazione>
+    <indirizzo>Piazza Libertà, 6</indirizzo>
+    <comune>Scandiano</comune>
+    <ISTATcomune>35040</ISTATcomune>
+    <provincia>RE</provincia>
+    <telefono>0522-764238</telefono>
+    <fax>0522-852323</fax>
+    <email>uit@comune.scandiano.re.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>CIMONE</denominazione>
+    <indirizzo>Corso Umberto I°, 3</indirizzo>
+    <comune>Sestola</comune>
+    <ISTATcomune>36043</ISTATcomune>
+    <provincia>MO</provincia>
+    <telefono>0536-62324</telefono>
+    <fax>0536-61621</fax>
+    <email>infosestola@msw.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>TERRE DI CASTELLI</denominazione>
+    <indirizzo>Via Roncati, 28</indirizzo>
+    <comune>Spilamberto</comune>
+    <ISTATcomune>36045</ISTATcomune>
+    <provincia>MO</provincia>
+    <telefono>059-781270</telefono>
+    <fax>059-781286</fax>
+    <email>info@turismoterredicastelli.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>TIZZANO</denominazione>
+    <indirizzo>Piazza Roma, 1</indirizzo>
+    <comune>Tizzano Val Parma</comune>
+    <ISTATcomune>34039</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0521-868936</telefono>
+    <fax>0521-868937</fax>
+    <email>uff.turismo@comune.tizzano-val-parma.pr.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>TARSOGNO</denominazione>
+    <indirizzo>Via Noberini, 1</indirizzo>
+    <comune>Tornolo</comune>
+    <ISTATcomune>34040</ISTATcomune>
+    <provincia>PR</provincia>
+    <telefono>0525-89272</telefono>
+    <fax>0525-89272</fax>
+    <email>prolocotarsogno@tiscali.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>VERGHERETO - ALFERO</denominazione>
+    <indirizzo>Via G. Leopardi, 14</indirizzo>
+    <comune>Verghereto</comune>
+    <ISTATcomune>40050</ISTATcomune>
+    <provincia>FC</provincia>
+    <telefono>0543-910198</telefono>
+    <fax>0543-910198</fax>
+    <email>turismo@comune.verghereto.fc.it</email>
+    <tipologia>UIT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>VERUCCHIO</denominazione>
+    <indirizzo>Piazza Malatesta, 20</indirizzo>
+    <comune>Verucchio</comune>
+    <ISTATcomune>99020</ISTATcomune>
+    <provincia>RN</provincia>
+    <telefono>0541-670222</telefono>
+    <fax>0541-673266</fax>
+    <email>iat.verucchio@iper.net</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>GRAZZANO VISCONTI</denominazione>
+    <indirizzo>Viale del Castello, 2</indirizzo>
+    <comune>Vigolzone</comune>
+    <ISTATcomune>33045</ISTATcomune>
+    <provincia>PC</provincia>
+    <telefono>0523-870997</telefono>
+    <fax>0523-870997</fax>
+    <email>iat@valnure.info</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+  <tour>
+    <anno>2012</anno>
+    <denominazione>ZOLA PREDOSA</denominazione>
+    <indirizzo>Via Masini, 11</indirizzo>
+    <comune>Zola Predosa</comune>
+    <ISTATcomune>37060</ISTATcomune>
+    <provincia>BO</provincia>
+    <telefono>051-752472</telefono>
+    <fax>051-752838</fax>
+    <email>info@iatzola.it</email>
+    <tipologia>IAT</tipologia>
+  </tour>
+</dataroot>

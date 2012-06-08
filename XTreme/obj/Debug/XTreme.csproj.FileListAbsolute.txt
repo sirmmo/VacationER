@@ -1,0 +1,15 @@
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\Bin\Debug\ApplicationIcon.png
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\Bin\Debug\Background.png
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\Bin\Debug\XTreme.dll
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\Bin\Debug\XTreme.pdb
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\Bin\Debug\AppManifest.xaml
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\Bin\Debug\XTreme.xap
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\obj\Debug\ResolveAssemblyReference.cache
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\obj\Debug\App.g.i.cs
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\obj\Debug\MainPage.g.i.cs
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\obj\Debug\XTreme.g.resources
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\obj\Debug\XTreme.dll
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\obj\Debug\XTreme.pdb
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\XTreme\obj\Debug\XapCacheFile.xml

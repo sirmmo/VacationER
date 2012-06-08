@@ -1,0 +1,15 @@
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\Bin\Debug\ApplicationIcon.png
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\Bin\Debug\Background.png
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\Bin\Debug\PanoramaGame.dll
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\Bin\Debug\PanoramaGame.pdb
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\Bin\Debug\AppManifest.xaml
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\Bin\Debug\PanoramaGame.xap
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\obj\Debug\ResolveAssemblyReference.cache
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\obj\Debug\App.g.i.cs
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\obj\Debug\MainPage.g.i.cs
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\obj\Debug\PanoramaGame.g.resources
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\obj\Debug\PanoramaGame.dll
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\obj\Debug\PanoramaGame.pdb
+c:\users\n61j\documents\visual studio 2010\Projects\MapPhone\PanoramaGame\obj\Debug\XapCacheFile.xml

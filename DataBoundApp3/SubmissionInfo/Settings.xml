@@ -1,0 +1,6 @@
+<MarketplaceDetails>
+  <SmallAppTile>Background_smaller.png</SmallAppTile>
+  <LargeAppTile>Background_2.png</LargeAppTile>
+  <PCAppTile>Background_large.png</PCAppTile>
+  <ScreenShots>about.png;main_about.png;details_call.png;details_page.png;main_cst.png;main_v.png;SplashScreenImage.png;main_view.png;</ScreenShots>
+</MarketplaceDetails>
